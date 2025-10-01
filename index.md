@@ -1,2 +1,2 @@
-# Tbby Wrestler Arch Repo
+# Tubby Wrestler Arch Repo
 
